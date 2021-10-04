@@ -13,7 +13,7 @@ This is a LineBot deployed on Heroku that notifies users and groups when a given
 
 ## Project Structure
 - `api` : Callback handlers and apis that interacts with `pubsubhubub` and database
-- `controller` : Controllers of database and linebot that 
+- `controller` : Controllers of database and linebot
 - `main.go` : Initiate database, linebot and automate subscription
 
 ## Usage
