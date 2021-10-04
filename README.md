@@ -8,7 +8,7 @@
 
 
 ## General Info
-A LineBot deployed on Heroku that notifies users and groups when a given YouTube channel launches video or stream. The project was meant to help my fellows in church to subscribe to our preach stream on live via `Line`, especially for the elderly. Note that this is a simplfied one of the running service on production, and is used to help others build something alike.
+This is a LineBot deployed on Heroku that notifies users and groups when a given YouTube channel launches video or stream. The project was meant to help my fellows in church to subscribe to our preach live streams via `Line`, especially for the elderly. Note that it is a simplfied one compared to the running service on production, and is shared to help others who want to build something alike.
 
 
 ## Project Structure
