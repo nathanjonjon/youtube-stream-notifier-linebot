@@ -20,6 +20,6 @@ This is a LineBot deployed on Heroku that notifies users and groups when a given
 - Create an account in [Line developer console](https://developers.line.biz/console/)
 - Configure webhook, message channel and register credentials
 - Deploy codes to your app in [Heroku](https://dashboard.heroku.com/apps) and set the `Config Vars`
-- Add on a `Postgresql` database from [here](https://elements.heroku.com/addons/heroku-postgresql)
-- Upload a video or start a stream, and play with the linebot!
+- Add on a `Postgresql` database to your app from [here](https://elements.heroku.com/addons/heroku-postgresql)
+- Upload a video or start a stream, and stay tuned to the linebot!
 
